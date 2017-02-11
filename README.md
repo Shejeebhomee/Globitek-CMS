@@ -67,9 +67,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+One key challenge was noticing the little errors that was not letting my form submit.
+
 ## License
 
-    Copyright [2017] [name of copyright owner]
+    Copyright [2017] [Oluwasijibomi Ajisegiri]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
